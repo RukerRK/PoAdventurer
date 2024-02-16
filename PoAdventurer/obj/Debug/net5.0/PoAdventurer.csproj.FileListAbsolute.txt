@@ -1,0 +1,16 @@
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\PoAdventurer.exe
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\PoAdventurer.deps.json
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\PoAdventurer.runtimeconfig.json
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\PoAdventurer.runtimeconfig.dev.json
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\PoAdventurer.dll
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\ref\PoAdventurer.dll
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\bin\Debug\net5.0\PoAdventurer.pdb
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.csproj.AssemblyReference.cache
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.GeneratedMSBuildEditorConfig.editorconfig
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.AssemblyInfoInputs.cache
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.AssemblyInfo.cs
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.csproj.CoreCompileInputs.cache
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.dll
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\ref\PoAdventurer.dll
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.pdb
+D:\รวมงานGI161 OOP\Coding\PoAdventurer\PoAdventurer\obj\Debug\net5.0\PoAdventurer.genruntimeconfig.cache
